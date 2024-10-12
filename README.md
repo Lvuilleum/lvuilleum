@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+- I'm currently Studying at EPFL
+- 🌱 I'm currently learning Java
+- Pronouns: He/him
 <!--
 **Lvuilleum/lvuilleum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
