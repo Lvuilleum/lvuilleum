@@ -2,7 +2,7 @@
 
 
 - BSc Computer Science @ EPfl -- BA4
-- Java, Scala, ScalaJS, RISC-V assembly, Verilog
+- Java, Scala, ScalaJS, RISC-V assembly, Verilog, python, numpy
 <!--
 **Lvuilleum/lvuilleum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
