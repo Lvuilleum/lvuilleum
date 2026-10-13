@@ -3,7 +3,7 @@
 **Computer Science Student (BA4) @ EPFL** 🇨🇭  
 Passionate about **Functional Programming**, low-level systems, and software engineering.
 
-🔍 **Currently looking for an internship for Summer 2026!**
+🔍 **Currently looking for an internship for Summer 2027!**
 
 ---
 
