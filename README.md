@@ -1,39 +1,50 @@
-# Hi there, I'm Liam!
+# Liam Vuilleumier
 
-**Computer Science Student (BA4) @ EPFL** 🇨🇭  
-Passionate about **Functional Programming**, low-level systems, and software engineering.
+Computer Science student (BA5) at **EPFL**, Lausanne 
 
-🔍 **Currently looking for an internship for Summer 2027!**
-
----
-
-### 🛠 Technical Toolbox
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23E23237.svg?style=flat-square&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
-| **Low-Level** | ![RISC-V](https://img.shields.io/badge/RISC--V-672535?style=flat-square&logo=riscv&logoColor=white) Verilog, Assembly |
-| **Data & Libs** | Numpy, ScalaJS, Git |
+**Looking for a Summer 2027 internship** (Software Engineering), available June – mid-September 2027.
 
 ---
 
-### 📂 Key Projects
+### Featured projects
 
-* **🚆 Train Schedule Optimizer (Java)** *Developed a system to manage and optimize railway schedules, focusing on algorithms and efficient data structures.*
+**VectoC** — *Vector database server in C*
+A multithreaded vector database server with its own TCP protocol and K-NN search, built directly on POSIX syscalls.
+- ~500k vector comparisons/sec
+- Custom storage layer with persistent headers and index handling
+- Tracked down concurrency and persistence bugs in the multithreaded search path
 
-* **🃏 Dizhou Webapp (Scala & ScalaJS)** *A full-stack web implementation of the "Dizhou" card game, leveraging **Functional Programming** principles.*
+**RISC-V CPU in Verilog** — *Computer Architecture, EPFL*
+Designed and implemented a processor in Verilog, plus Conway's Game of Life written in RISC-V assembly.
 
-* **🤖 QuantBacktest Trading Bot (In Progress)** *Building a trading bot with a strong focus on quantitative backtesting strategies.*
+**Train Schedule Optimizer** — *Java*
+Railway timetable management and optimization, focused on algorithms and efficient data structures.
+
+**Dizhou** — *Scala / Scala.js*
+Full-stack web implementation of the Dizhou card game, written in a functional style.
+
+**Game of Life in RISC-V** — *Computer Architecture, EPFL*
+Conway's Game of Life written entirely in RISC-V assembly.
+
+**Shifter** — *Android app, team project (EPFL Software Enterprise, in progress)*
+An app that connects event organizers with volunteers: organizers create events and staffing needs, volunteers sign up for shifts, and everyone stays coordinated in one place.
+- Built in a team of 7 using agile sprints, code review and CI
+- Stack: [Kotlin, Jetpack Compose, Firebase]
 
 ---
 
-### 📊 GitHub Stats
+### Tech
 
-![Stats for lvuilleum](https://github-readme-stats.vercel.app/api?username=lvuilleum&show_icons=true&theme=tokyonight&count_private=true)
+**Languages:** C · Java · Scala · Python · RISC-V assembly · Verilog
+**Systems:** POSIX, multithreading, TCP networking
+**Tools & libs:** Git, NumPy, Scala.js
 
 ---
 
-### 📫 Reach Me
+### Elsewhere at EPFL
+- Teaching assistant for *Advanced Information, Computation, Communication I* (Prof. Urbanke)
+- Mentor for first-year CS/Communication Systems students
 
-* **LinkedIn:** https://www.linkedin.com/in/liam-vuilleumier-655197383/
-* **Email:** liam.vuilleumier@epfl.ch
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/liam-vuilleumier-655197383/) · liam.vuilleumier@epfl.ch
